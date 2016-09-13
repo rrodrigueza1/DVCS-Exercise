@@ -6,6 +6,7 @@
     </div>
     <div>
         <p> Hello World!</p>
+        <asp:Button ID="dummyButton" runat="server" Text="OK" />
     </div>
 </asp:Content>
 
