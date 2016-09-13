@@ -4,5 +4,8 @@
     <div class="jumbotron">
         <h3>Welcome to DMIT2018 (Intermediate Application Development)</h3>
     </div>
+    <div>
+        <p> Hello World!</p>
+    </div>
 </asp:Content>
 
